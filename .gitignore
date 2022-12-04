@@ -1,3 +1,4 @@
 .idea
 target
 day03/*/lib
+cmake-build-debug
