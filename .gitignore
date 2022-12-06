@@ -3,3 +3,5 @@ target
 day03/*/lib
 cmake-build-debug
 out
+*.hi
+*.o
